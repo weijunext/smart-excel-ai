@@ -1,0 +1,25 @@
+# *
+User-agent: *
+Allow: /
+
+# AhrefsBot
+User-agent: AhrefsBot
+Disallow: /
+
+# SemrushBot
+User-agent: SemrushBot
+Disallow: /
+
+# MJ12bot
+User-agent: MJ12bot
+Disallow: /
+
+# DotBot
+User-agent: DotBot
+Disallow: /
+
+# Host
+Host: https://www.smartexcel.cc
+
+# Sitemaps
+Sitemap: https://www.smartexcel.cc/sitemap.xml

@@ -1,0 +1,7 @@
+dist
+node_modules
+.next
+build
+.contentlayer
+postgres
+*.md

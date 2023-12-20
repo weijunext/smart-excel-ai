@@ -1,0 +1,20 @@
+# docker-compose.yml
+# how to use? see my blog: https://weijunext.com/article/b33a5545-fd26-47a6-8641-3c7467fb3910
+version: '3.1'
+services:
+  db:
+    image: postgres
+    volumes:
+      - ./postgres:/var/lib/postgresql/data
+    restart: always
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=myuser
+      - POSTGRES_PASSWORD=mypassword
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080

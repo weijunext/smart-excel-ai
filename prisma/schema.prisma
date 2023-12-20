@@ -1,0 +1,45 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schem
+
+// generator：指定哪个客户端向数据发送查询语言
+generator client {
+  provider = "prisma-client-js"
+}
+
+// datasource：定义数据库类型和链接地址
+datasource db {
+  provider  = "postgresql"
+  url       = env("POSTGRES_PRISMA_URL")
+  directUrl = env("POSTGRES_URL_NON_POOLING")
+}
+
+// model：定义数据库 Schema。
+model Dialog {
+  id        Int      @id @default(autoincrement())
+  dialogId  String   @unique
+  prompt    String
+  reply     String
+  userId    String
+  uid       User     @relation(fields: [userId], references: [userId])
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model User {
+  id               Int     @id @default(autoincrement())
+  userId           String? @unique // sub
+  username         String?
+  avatar           String?
+  role             Int?
+  platform         String? // github google
+  email            String?
+  // lemonsqueezy
+  subscriptionId   String?
+  customerId       String?
+  variantId        Int?
+  currentPeriodEnd Int?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  Dialog    Dialog[]
+}
