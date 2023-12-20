@@ -46,9 +46,9 @@ pnpm run dev
 ## 关于我
 我是一名前端工程师，同时也是全栈开发爱好者，还是一名AI降临派。  
 
-[博客](https://weijunext.com)
-[Github](https://github.com/weijunext)
-[Twitter / X](https://twitter.com/weijunext)
-[掘金](https://juejin.cn/user/26044008768029)
-[知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)
-[微信交流群](https://weijunext.com/make-a-friend)
+[博客](https://weijunext.com)  
+[Github](https://github.com/weijunext)  
+[Twitter / X](https://twitter.com/weijunext)  
+[掘金](https://juejin.cn/user/26044008768029)  
+[知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)  
+[微信交流群](https://weijunext.com/make-a-friend)  

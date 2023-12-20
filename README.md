@@ -48,10 +48,10 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 ## About Me
 I am a **Front-End Engineer**, a **Full-Stack Practitioner**, and an advocate of **AI adventism**.
 
-[My Blog](https://weijunext.com)
-[Github](https://github.com/weijunext)
-[Twitter / X](https://twitter.com/weijunext)
-[Medium](https://medium.com/@weijunext)
-[掘金](https://juejin.cn/user/26044008768029)
-[知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)
-[微信交流群](https://weijunext.com/make-a-friend)
+[My Blog](https://weijunext.com)  
+[Github](https://github.com/weijunext)  
+[Twitter / X](https://twitter.com/weijunext)  
+[Medium](https://medium.com/@weijunext)  
+[掘金](https://juejin.cn/user/26044008768029)  
+[知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)  
+[微信交流群](https://weijunext.com/make-a-friend)  
