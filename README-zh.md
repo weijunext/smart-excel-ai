@@ -52,3 +52,8 @@ pnpm run dev
 [掘金](https://juejin.cn/user/26044008768029)  
 [知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)  
 [微信交流群](https://weijunext.com/make-a-friend)  
+
+
+## Star 记录
+
+![Star History Chart](https://api.star-history.com/svg?repos=weijunext/smart-excel-ai&type=Date)
