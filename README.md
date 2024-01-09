@@ -33,6 +33,8 @@ If you are unfamiliar with some of the tech stacks, please click on the "How to 
 
 After cloning the repo, you need to copy the `.env.example` file to create a `.env` file and fill in the required fields.
 
+open [Upstash](https://upstash.com/) and Create Redis application , then write `UPSTASH_REDIS_REST_URL` and `UPSTASH_REDIS_REST_TOKEN` to `.env`
+
 Then, run the application in the command line and it will be available at `http://localhost:3000`.
 
 ```bash
