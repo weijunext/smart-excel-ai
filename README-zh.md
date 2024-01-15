@@ -25,7 +25,7 @@ SmartExcel构建于以下技术栈：
 - Docker - 开发存储（[如何使用？](https://weijunext.com/article/b33a5545-fd26-47a6-8641-3c7467fb3910)）
 - Vercel - 托管
 
-如果您对某些技术栈不熟悉，请点击上面的“如何使用”链接，阅读我的中文博客。
+如果您对某些技术栈不熟悉，请点击上面的“如何使用”链接，阅读我的中文博客。或者到我的另一个开源仓库学习 —— [Learn Next.js Stack](https://github.com/weijunext/nextjs-learn-demos)
 
 ## 本地运行
 

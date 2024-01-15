@@ -26,7 +26,7 @@ SmartExcel is built on the following stack:
 - Docker - Development Storage([How to use?](https://weijunext.com/article/b33a5545-fd26-47a6-8641-3c7467fb3910))
 - Vercel - Hosting
 
-If you are unfamiliar with some of the tech stacks, please click on the "How to use" links above to read my Chinese blog.
+If you are unfamiliar with some of the tech stacks, please click on the "How to use" links above to read my Chinese blog, or visit my other public repo - [Learn Next.js Stack](https://github.com/weijunext/nextjs-learn-demos)
 
 
 ## Running Locally
