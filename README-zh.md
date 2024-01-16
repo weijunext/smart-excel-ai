@@ -54,6 +54,11 @@ pnpm run dev
 [微信交流群](https://weijunext.com/make-a-friend)  
 
 
+
+If this project is helpful to you, buy be a coffee.
+
+<a href="https://www.buymeacoffee.com/weijunextz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
+
 ## Star 记录
 
 ![Star History Chart](https://api.star-history.com/svg?repos=weijunext/smart-excel-ai&type=Date)
