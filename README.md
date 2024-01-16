@@ -60,8 +60,7 @@ I am a **Front-End Engineer**, a **Full-Stack Practitioner**, and an advocate of
 [知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)  
 [微信交流群](https://weijunext.com/make-a-friend)  
 
-
-如果这个项目对你有用，请我喝杯咖啡吧
+If this project is helpful to you, buy be a coffee.
 
 <a href="https://www.buymeacoffee.com/weijunextz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
 
