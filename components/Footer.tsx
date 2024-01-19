@@ -9,7 +9,7 @@ export default function Footer() {
     <footer className="w-full border-t mt-10 flex sm:flex-row flex-col justify-between px-12 py-10 sm:mb-0 mb-3 text-sm text-secondary-500">
       <div className="">
         <Link
-          href="/zh"
+          href="/"
           aria-current="page"
           className="inline-flex items-center gap-2 text-lg text-secondary-700  md:text-xl"
         >
