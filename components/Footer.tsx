@@ -1,118 +1,63 @@
-import Github from "@/components/icons/GitHub";
-import Twitter from "@/components/icons/Twitter";
+import SocialIcon from "@/components/social-icons";
 import { siteConfig } from "@/config/site";
-import Image from "next/image";
 import Link from "next/link";
 
-export default function Footer() {
+const Footer = () => {
+  const d = new Date();
+  const currentYear = d.getFullYear();
+
   return (
-    <footer className="w-full border-t mt-10 flex sm:flex-row flex-col justify-between px-12 py-10 sm:mb-0 mb-3 text-sm text-secondary-500">
-      <div className="">
-        <Link
-          href="/"
-          aria-current="page"
-          className="inline-flex items-center gap-2 text-lg text-secondary-700  md:text-xl"
-        >
-          <Image
-            src="/logo.png"
-            alt="logo"
-            width={30}
-            height={30}
-            className="h-6 w-6"
+    <footer>
+      <div className="mt-16 pt-6 pb-2 flex flex-col items-center bg-black text-sm text-gray-400 border-t">
+        <div className="mb-3 flex space-x-4">
+          <SocialIcon kind="mail" href="mailto:weijunext@gmail.com" size={6} />
+          <SocialIcon
+            kind="github"
+            href="https://github.com/weijunext"
+            size={6}
           />
-          Smart Excel
-        </Link>
-        <p className="mt-2">{siteConfig.description}</p>
-        <p className="flex items-center my-3">
-          <Link
-            href=""
-            aria-label="@weijunext Twitter"
-            target="_blank"
-            rel="noopener norefferer nofollow"
-          >
-            <Twitter className="h-5 w-5" />
+          <SocialIcon
+            kind="twitter"
+            href="https://twitter.com/BigYeChengPu"
+            size={6}
+          />
+          <SocialIcon
+            kind="twitterX"
+            href="https://twitter.com/weijunext"
+            size={6}
+          />
+          <SocialIcon
+            kind="jueJin"
+            href="https://juejin.cn/user/26044008768029"
+            size={6}
+          />
+          <SocialIcon
+            kind="weChat"
+            href="https://weijunext.com/make-a-friend"
+            size={6}
+          />
+        </div>
+        <div className="mb-2 flex space-x-2">
+          <Link href="https://weijunext.com/" target="_blank">
+            J实验室
           </Link>
-          <Link
-            href="https://github.com/weijunext/smart-excel-ai"
-            className="ml-2"
-            aria-label="GitHub"
-            target="_blank"
-            rel="noopener norefferer nofollow"
-          >
-            <Github />
+          <div>{" • "}</div>
+          <Link href="https://smartexcel.cc/" target="_blank">
+            Smart Excel
           </Link>
-        </p>
-      </div>
-      <div className="mt-10 grid grid-cols-2 gap-10 text-left md:mt-0 md:flex md:gap-24">
-        <div>
-          <h3 className="font-semibold text-secondary-700">Follow Me</h3>{" "}
-          <ul className="mt-4 space-y-2">
-            <li>
-              <Link
-                href="https://twitter.com/weijunext"
-                target="_black"
-                rel="noopener norefferer nofollow"
-                className="hover:text-primary-500 hover:underline"
-              >
-                Twitter / X
-              </Link>
-            </li>{" "}
-            <li>
-              <Link
-                href="https://github.com/weijunext"
-                target="_black"
-                rel="noopener norefferer nofollow"
-                className="hover:text-primary-500 hover:underline"
-              >
-                Github
-              </Link>
-            </li>{" "}
-            <li>
-              <a
-                href="mailto:weijunext@gmail.com"
-                className="hover:text-primary-500 hover:underline"
-              >
-                Email
-              </a>
-            </li>{" "}
-          </ul>
-        </div>{" "}
-        <div>
-          <h3 className="font-semibold text-secondary-700">Links</h3>{" "}
-          <ul className="mt-4 space-y-2">
-            <li>
-              <Link
-                href="https://weijunext.com/"
-                title="Wei Jun's blog, share knowledge about front-end, fullstack and AI"
-                target="_blank"
-                className="hover:text-primary-500 hover:underline"
-              >
-                J Blog
-              </Link>
-            </li>{" "}
-            <li>
-              <Link
-                href="https://smartexcel.cc/"
-                title={siteConfig.description}
-                target="_black"
-                className="hover:text-primary-500 hover:underline"
-              >
-                Smart Excel
-              </Link>
-            </li>{" "}
-            <li>
-              <Link
-                href="https://nextjs.weijunext.com/"
-                title="Sharing Technologies in the Next.js Ecosystem"
-                target="_black"
-                className="hover:text-primary-500 hover:underline"
-              >
-                Next.js Practice
-              </Link>
-            </li>
-          </ul>
+          <div>{" • "}</div>
+          <Link href="https://nextjs.weijunext.com/" target="_blank">
+            Next.js Practice
+          </Link>
+        </div>
+        <div className="mb-2 flex space-x-2">
+          <Link href={siteConfig.url}>{siteConfig.creator}</Link>
+          <div>{" • "}</div>
+          <div>{`© ${currentYear}`}</div>
         </div>
       </div>
     </footer>
   );
-}
+};
+
+export default Footer;
