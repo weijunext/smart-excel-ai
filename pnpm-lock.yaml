@@ -47,6 +47,7 @@ specifiers:
   react-dom: 18.2.0
   react-hook-form: ^7.42.0
   react-hot-toast: ^2.4.1
+  react-icons: ^5.0.1
   react-use-measure: ^2.1.1
   rehype-autolink-headings: ^6.1.1
   rehype-pretty-code: ^0.10.0
@@ -102,6 +103,7 @@ dependencies:
   react-dom: registry.npmmirror.com/react-dom/18.2.0_react@18.2.0
   react-hook-form: registry.npmmirror.com/react-hook-form/7.48.2_react@18.2.0
   react-hot-toast: registry.npmmirror.com/react-hot-toast/2.4.1_s7mghcr6idhb4d5ook54gl4n44
+  react-icons: registry.npmmirror.com/react-icons/5.0.1_react@18.2.0
   react-use-measure: registry.npmmirror.com/react-use-measure/2.1.1_biqbaboplfbrettd7655fr4n2y
   rehype-autolink-headings: registry.npmmirror.com/rehype-autolink-headings/6.1.1
   rehype-pretty-code: registry.npmmirror.com/rehype-pretty-code/0.10.2_shiki@0.14.5
@@ -5805,6 +5807,17 @@ packages:
       react-dom: registry.npmmirror.com/react-dom/18.2.0_react@18.2.0
     transitivePeerDependencies:
       - csstype
+    dev: false
+
+  registry.npmmirror.com/react-icons/5.0.1_react@18.2.0:
+    resolution: {integrity: sha512-WqLZJ4bLzlhmsvme6iFdgO8gfZP17rfjYEJ2m9RsZjZ+cc4k1hTzknEz63YS1MeT50kVzoa1Nz36f4BEx+Wigw==, registry: http://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/react-icons/-/react-icons-5.0.1.tgz}
+    id: registry.npmmirror.com/react-icons/5.0.1
+    name: react-icons
+    version: 5.0.1
+    peerDependencies:
+      react: '*'
+    dependencies:
+      react: registry.npmmirror.com/react/18.2.0
     dev: false
 
   registry.npmmirror.com/react-remove-scroll-bar/2.3.4_iapumuv4e6jcjznwuxpf4tt22e:
