@@ -11,7 +11,7 @@ Generate the Excel formulas you need in seconds using AI.
 
 This project uses the [ChatGPT API](https://openai.com/api/) and the [Vercel AI SDK](https://sdk.vercel.ai/docs) with streaming. It constructs a prompt based on the form and user input, sends it to the ChatGPT API with a Vercel Edge Function, then streams the response back to the application UI.
 
-## Tech Stack 
+## Stack 
 
 SmartExcel is built on the following stack:
 
@@ -40,6 +40,8 @@ Then write `UPSTASH_REDIS_REST_URL` and `UPSTASH_REDIS_REST_TOKEN` to `.env`.
 Then, run the application in the command line and it will be available at `http://localhost:3000`.
 
 ```bash
+pnpm i
+
 pnpm run dev
 ```
 
