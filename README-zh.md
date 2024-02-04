@@ -34,7 +34,7 @@ SmartExcel构建于以下技术栈：
 然后，在命令行运行应用程序，它将在`http://localhost:3000`上可用。
 
 ```bash
-pnpmi i
+pnpm i
 
 pnpm run dev
 ```
