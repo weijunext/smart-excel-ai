@@ -52,16 +52,19 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/weijunext/smart-excel-ai&project-name=&repository-name=smart-excel-ai&demo-title=SmartExcel&demo-description=Generate%20the%20Excel%20formulas%20you%20need%20in%20seconds%20using%20AI.&demo-url=https://smartexcel.cc&demo-image=https://smartexcel.cc/opengraph-image.png)
 
 ## About Me
-I am a **Front-End Engineer**, a **Full-Stack Practitioner**, and an advocate of **AI adventism**.
+
+**Full-Stack Engineer, Open-Source Next.js Artist & AI Enthusiast.**
+
+**全栈工程师，Next.js 开源手艺人，AI降临派。**
 
 [My Blog](https://weijunext.com)  
 [Github](https://github.com/weijunext)  
-[Twitter / X](https://twitter.com/weijunext)  
+[Twitter/X](https://twitter.com/weijunext)  
+[Twitter/X - En](https://twitter.com/wayne_dev)  
 [Medium](https://medium.com/@weijunext)  
 [掘金](https://juejin.cn/user/26044008768029)  
 [知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)  
 [微信交流群](https://weijunext.com/make-a-friend)  
-
 
 If this project is helpful to you, star the repo and buy be a coffee, thank you.
 
