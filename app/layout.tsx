@@ -36,6 +36,9 @@ export const metadata = {
   metadataBase: siteConfig.metadataBase,
   openGraph: siteConfig.openGraph,
   twitter: siteConfig.twitter,
+  alternates: {
+    canonical: '/'
+  }
 };
 
 export default async function RootLayout({

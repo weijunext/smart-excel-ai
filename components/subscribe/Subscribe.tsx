@@ -110,7 +110,7 @@ export default function Subscribe({ user }: { user: UserInfo | null }) {
   return (
     <div>
       <div>
-        <h1 className="text-4xl font-bold mb-8 text-zinc-800">UPGRADE</h1>
+        <h2 className="text-4xl font-bold mb-8 text-zinc-800">UPGRADE</h2>
       </div>
       <section className="w-full py-0 flex items-center justify-center">
         <div className="container px-4 md:px-6">
