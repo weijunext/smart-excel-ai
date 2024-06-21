@@ -93,7 +93,7 @@ export default function HomePage({
         style={{ animationDelay: "0.3s", animationFillMode: "forwards" }}
       >
         <a
-          href="https://twitter.com/weijunext/"
+          href="https://x.com/weijunext/"
           target="_blank"
           rel="noopener noreferrer"
           className="flex max-w-fit items-center justify-center space-x-2 rounded-full border border-gray-300 bg-white px-4 py-2 text-sm text-gray-600 shadow-md transition-colors hover:bg-blue-200 mb-5"

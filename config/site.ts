@@ -22,7 +22,7 @@ const baseSiteConfig = {
     apple: "/apple-touch-icon.png",
   },
   links: {
-    twitter: "https://twitter.com/weijunext",
+    twitter: "https://x.com/weijunext",
     github: "https://github.com/weijunext/smartexcel",
   },
 }

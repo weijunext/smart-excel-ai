@@ -24,7 +24,7 @@ const ContactMe = () => {
         <BsGithub className="text-lg" />
       </Link>
       <Link
-        href="https://twitter.com/weijunext"
+        href="https://x.com/weijunext"
         target="_blank"
         rel="noopener norefferer nofollow"
         className="mx-3 flex max-w-[24px] flex-col items-center justify-center"

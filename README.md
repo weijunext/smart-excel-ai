@@ -59,8 +59,8 @@ Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_mediu
 
 [My Blog](https://weijunext.com)  
 [Github](https://github.com/weijunext)  
-[Twitter/X](https://twitter.com/weijunext)  
-[Twitter/X - En](https://twitter.com/wayne_dev)  
+[Twitter/X](https://x.com/weijunext)  
+[Twitter/X - En](https://x.com/wayne_dev)  
 [Medium](https://medium.com/@weijunext)  
 [掘金](https://juejin.cn/user/26044008768029)  
 [知乎](https://www.zhihu.com/people/mo-mo-mo-89-12-11)  

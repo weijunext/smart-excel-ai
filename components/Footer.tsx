@@ -17,12 +17,12 @@ const Footer = () => {
             J实验室
           </Link>
           <div>{" • "}</div>
-          <Link href="https://githubbio.com/" target="_blank">
-            Github Bio Generator
-          </Link>
-          <div>{" • "}</div>
           <Link href="https://smartexcel.cc/" target="_blank">
             Smart Excel
+          </Link>
+          <div>{" • "}</div>
+          <Link href="https://landingpage.weijunext.com/" target="_blank">
+            Landing Page Boilerplate
           </Link>
           <div>{" • "}</div>
           <Link href="https://nextjs.weijunext.com/" target="_blank">
