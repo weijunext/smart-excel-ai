@@ -3,8 +3,8 @@
 
  [![302.ai](./public/302banner1.jpg)](https://302.ai/)
 > [Sponsor - 赞助]
-> [302.AI](https://302.ai/) 是一个集成了全球主流AI的自助平台，帮你一站式搞定：AI聊天、图片生成、图片处理、视频生成等必备AI工具，零月费，按需付费，数据本地存储，国内可直连，省钱又省心。
-> 新用户免费[领1美元额度 >>](https://gpt302.saaslink.net/Y3CmW1)
+> [302.AI](https://302.ai/) 是一个集成了全球主流AI的自助平台，帮你一站式搞定：AI聊天、图片生成、图片处理、视频生成等必备AI工具，零月费，按需付费，数据本地存储，国内可直连，省钱又省心。  
+> 新用户免费[领1美元额度 >>](https://gpt302.saaslink.net/Y3CmW1)  
 > 每天5美金额度的[GPT-4 >>](https://weijunext-all.tools302.com?region=1&pwd=8729)
 
 
