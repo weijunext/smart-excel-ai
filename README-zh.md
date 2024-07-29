@@ -6,7 +6,8 @@
 </a>
 
 > [Sponsor - 赞助]  
-> <a href="https://302.ai/" target="_blank">302.AI</a>是一个集成了全球主流AI的自助平台，帮你一站式搞定：AI聊天、图片生成、图片处理、视频生成等必备AI工具，零月费，按需付费，数据本地存储，国内可直连，省钱又省心。  
+> <a href="https://302.ai/" target="_blank">302.AI</a>302.AI是一个汇集全球顶级品牌的AI超市，按需付费，零月费，零门槛使用各种类型AI。
+>
 > 新用户免费<a href="https://gpt302.saaslink.net/Y3CmW1" target="_blank">领1美元额度⚡️</a>   
 > 每天5美金额度的<a href="https://weijunext-all.tools302.com?region=1&pwd=8729" target="_blank">GPT-4🤖</a>
 
