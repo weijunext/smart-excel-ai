@@ -1,0 +1,17 @@
+{
+  "HomePage": {
+    "p_3142-3192_FollowMe": "跟我来",
+    "p_3604-3659_StaronGitHub": "在 GitHub 上加星标",
+    "p_4178-4287_DescribewhatExcelformula": "描述所需的 Excel 公式。",
+    "p_4758-4820_Selectyourlanguage": "选择您的语言。",
+    "span_7483-7526_GenerateExcelformulas": "生成 Excel 公式 →",
+    "span_7764-7810_Availableafterloggingin": "登录后可用 →",
+    "h2_8162-8352_Theformulayouneed": "您需要的公式"
+  },
+  "LoginPage": {
+    "h1_914-1009_Welcomeback": "欢迎回来",
+    "p_1020-1125_Pleaseselectyourloginmet": "请选择您的登录方法。",
+    "p_1186-1498_Byclickingcontinueyouagr": "点击继续，即表示您同意我们的",
+    "Link_1313-1473_PrivacyPolicy": "隐私策略"
+  }
+}

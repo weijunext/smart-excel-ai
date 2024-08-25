@@ -1,0 +1,17 @@
+{
+  "HomePage": {
+    "p_3142-3192_FollowMe": "付いて来てください",
+    "p_3604-3659_StaronGitHub": "GitHubでスターを付ける",
+    "p_4178-4287_DescribewhatExcelformula": "必要なExcelの数式を説明してください。",
+    "p_4758-4820_Selectyourlanguage": "言語を選択します。",
+    "span_7483-7526_GenerateExcelformulas": "Excel の数式を→生成する",
+    "span_7764-7810_Availableafterloggingin": "→ログイン後に利用可能",
+    "h2_8162-8352_Theformulayouneed": "あなたが必要とする公式"
+  },
+  "LoginPage": {
+    "h1_914-1009_Welcomeback": "再びようこそ",
+    "p_1020-1125_Pleaseselectyourloginmet": "ログイン方法を選択してください。",
+    "p_1186-1498_Byclickingcontinueyouagr": "「続行」をクリックすると、以下の内容に同意したことになります。",
+    "Link_1313-1473_PrivacyPolicy": "プライバシーポリシー"
+  }
+}
