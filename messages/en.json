@@ -1,0 +1,17 @@
+{
+  "HomePage": {
+    "p_3142-3192_FollowMe": "Follow Me",
+    "p_3604-3659_StaronGitHub": "Star on GitHub",
+    "p_4178-4287_DescribewhatExcelformula": "Describe what Excel formulas you would like.",
+    "p_4758-4820_Selectyourlanguage": "Select your language.",
+    "span_7483-7526_GenerateExcelformulas": "Generate Excel formulas →",
+    "span_7764-7810_Availableafterloggingin": "Available after logging in →",
+    "h2_8162-8352_Theformulayouneed": "The formula you need"
+  },
+  "LoginPage": {
+    "h1_914-1009_Welcomeback": "Welcome back",
+    "p_1020-1125_Pleaseselectyourloginmet": "Please select your login method.",
+    "p_1186-1498_Byclickingcontinueyouagr": "By clicking continue, you agree to our",
+    "Link_1313-1473_PrivacyPolicy": "Privacy Policy"
+  }
+}

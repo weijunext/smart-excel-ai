@@ -45,8 +45,9 @@ export const incrUsage = async () => {
 // 获取网站总使用次数
 // Get total website usage count
 export const getUsage = async () => {
-  const usage = await redis.get('usage') || 0;
-  return usage
+  // const usage = await redis.get('usage') || 0;
+  // return usage
+  return 0;
 }
 
 // 自增用户使用次数，这个方法用于内部调用
