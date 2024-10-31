@@ -4,7 +4,7 @@
     "dev": "next dev",
     "dev:mdx": "concurrently \"contentlayer dev\" \"next dev\"",
     "build:local": "contentlayer build && next build",
-    "build": "contentlayer build && prisma generate && prisma db push && next build",
+    "build": "contentlayer build && next build",
     "postbuild": "next-sitemap --config next-sitemap.config.js",
     "start": "next start",
     "prisma:init": "npx prisma init",

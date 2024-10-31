@@ -43,3 +43,4 @@ next-env.d.ts
 postgres
 
 package-lock.json
+public/sitemap-0.xml
