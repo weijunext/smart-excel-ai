@@ -2,6 +2,7 @@ import { ONE_DAY } from "@/lib/constants";
 import { getUserSubscriptionStatus } from "@/lib/lemonsqueezy/subscriptionFromStorage";
 import prisma from "@/lib/prisma";
 import { UserInfo } from "@/types/user";
+import { get } from '@vercel/edge-config';
 import { Account, NextAuthOptions, TokenSet } from "next-auth";
 import { JWT } from "next-auth/jwt";
 import GithubProvider from 'next-auth/providers/github';
@@ -14,6 +15,12 @@ interface ExtendedToken extends TokenSet {
   userId?: string;
 }
 
+const clientId = await get('GITHUB_ID');
+const clientSecret = await get('GITHUB_SECRET');
+
+console.log("clientId " + clientId)
+console.log("clientSecret " + clientSecret)
+
 export const authOptions: NextAuthOptions = {
   secret: process.env.NEXTAUTH_SECRET,
   session: {
@@ -25,8 +32,10 @@ export const authOptions: NextAuthOptions = {
   },
   providers: [
     GithubProvider({
-      clientId: `${process.env.GITHUB_ID}`,
-      clientSecret: `${process.env.GITHUB_SECRET}`,
+      // clientId: `${process.env.GITHUB_ID}`,
+      // clientSecret: `${process.env.GITHUB_SECRET}`,
+      clientId: String(clientId),
+      clientSecret: String(clientSecret),
       httpOptions: {
         timeout: 50000,
       },
