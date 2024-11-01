@@ -59,6 +59,9 @@ export async function POST(request: Request) {
       }
     )) as CreateCheckoutResult;
 
+    console.log(checkout)
+    console.log(JSON.stringify(checkout))
+
     return NextResponse.json({ checkoutURL: checkout.data.attributes.url }, { status: 200 });
   } catch (error: any) {
     console.error('POST request failed:', error);
