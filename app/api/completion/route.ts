@@ -3,9 +3,11 @@ import { getUserDateRemaining, incrAfterChat } from '@/lib/usage/usage';
 import { DateRemaining } from '@/types/usage';
 import { RedisUserId } from '@/types/user';
 import { OpenAIStream, StreamingTextResponse } from 'ai';
-import { NextRequest } from 'next/server';
+import { NextRequest, NextResponse } from 'next/server';
 // import { Configuration, OpenAIApi } from 'openai-edge'; // runtime = 'edge'
 import OpenAI from 'openai';
+
+import { get } from '@vercel/edge-config';
 
 // runtime = 'edge'
 // const config = new Configuration({
@@ -20,6 +22,11 @@ const openai = new OpenAI({
 // export const runtime = 'edge'; // runtime = 'edge'
 
 export async function POST(req: NextRequest) {
+
+  const greeting = await get('greeting');
+  if (1 == 1) {
+    return NextResponse.json({ message: greeting }, { status: 200 });
+  }
   // 判断referer
   // Check the referer
   const headers = req.headers
