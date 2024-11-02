@@ -43,6 +43,7 @@
     "next": "^13.4.10",
     "next-auth": "^4.22.3",
     "next-contentlayer": "^0.3.4",
+    "next-cors": "^1.0.0",
     "next-mdx-remote": "^4.4.1",
     "next-sitemap": "^4.2.3",
     "next-themes": "^0.2.1",

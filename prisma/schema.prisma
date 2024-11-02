@@ -43,3 +43,25 @@ model User {
   updatedAt DateTime @updatedAt
   Dialog    Dialog[]
 }
+
+//interface Interviewer {
+//  id: number
+//  name: string
+//  expertise: string
+//  experience: string
+//  price: number
+//  avatar: string
+//  rating: number
+//}
+
+model Interviewer {
+  id         Int      @id @default(autoincrement())
+  name       String?
+  expertise  String?
+  experience String?
+  price      Int?
+  avatar     String? // github google
+  rating     Int?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @default(now()) @updatedAt
+}
