@@ -6,10 +6,16 @@
 </a>
 
 > [Sponsor - 赞助]  
-> <a href="https://302.ai/" target="_blank">302.AI</a>302.AI是一个汇集全球顶级品牌的AI超市，按需付费，零月费，零门槛使用各种类型AI。
->
-> 新用户免费<a href="https://gpt302.saaslink.net/Y3CmW1" target="_blank">领1美元额度⚡️</a>   
-> 每天5美金额度的<a href="https://weijunext-all.tools302.com?region=1&pwd=8729" target="_blank">GPT-4🤖</a>
+> <a href="https://302.ai/" target="_blank">302.AI</a>是一个按需付费的一站式AI应用平台，开放平台，开源生态。
+> 
+> 1.集合了最新最全的AI模型和品牌，包括但不限于语言模型、图像模型、声音模型、视频模型。
+> 2.在基础模型上进行深度应用开发，做到让小白用户都可以零门槛上手使用，无需学习成本。
+> 3.零月费，所有功能按需付费，全面开放，做到真正的门槛低，上限高。
+> 4.创新的使用模式，管理和使用分离，面向团队和中小企业，一人管理，多人使用。
+> 5.所有AI能力均提供API接入，所有应用开源支持自行定制（进行中）。
+> 6.强大的开发团队，每周推出2-3个新应用，平台功能每日更新。
+> 
+> 302.AI开源工具啦：https://github.com/302ai
 
 # [SmartExcel.cc](https://www.smartExcel.cc/)
 
