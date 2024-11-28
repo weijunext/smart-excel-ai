@@ -1,13 +1,13 @@
 🌍 *[English](README.md) ∙ [简体中文](README-zh.md)*
 
 
-<a href="https://302.ai/" target="_blank">
+<a href="https://gpt302.saaslink.net/Y3CmW1" target="_blank">
   <img src="./public/302banner1.jpg" alt="302.ai">
 </a>
 
 
 > [Sponsor - 赞助]  
-> <a href="https://302.ai/" target="_blank">302.AI</a>是一个按需付费的一站式AI应用平台，开放平台，开源生态。
+> <a href="https://gpt302.saaslink.net/Y3CmW1" target="_blank">302.AI</a>是一个按需付费的一站式AI应用平台，开放平台，开源生态。
 > 
 > 1.集合了最新最全的AI模型和品牌，包括但不限于语言模型、图像模型、声音模型、视频模型。  
 > 2.在基础模型上进行深度应用开发，做到让小白用户都可以零门槛上手使用，无需学习成本。  
