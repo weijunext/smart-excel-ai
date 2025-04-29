@@ -1,22 +1,7 @@
 🌍 *[English](README.md) ∙ [简体中文](README-zh.md)*
 
 
-<a href="https://gpt302.saaslink.net/Y3CmW1" target="_blank">
-  <img src="./public/302banner1.jpg" alt="302.ai">
-</a>
-
-
-> [Sponsor - 赞助]  
-> <a href="https://gpt302.saaslink.net/Y3CmW1" target="_blank">302.AI</a>是一个按需付费的一站式AI应用平台，开放平台，开源生态。
-> 
-> 1.集合了最新最全的AI模型和品牌，包括但不限于语言模型、图像模型、声音模型、视频模型。  
-> 2.在基础模型上进行深度应用开发，做到让小白用户都可以零门槛上手使用，无需学习成本。  
-> 3.零月费，所有功能按需付费，全面开放，做到真正的门槛低，上限高。  
-> 4.创新的使用模式，管理和使用分离，面向团队和中小企业，一人管理，多人使用。  
-> 5.所有AI能力均提供API接入，所有应用开源支持自行定制（进行中）。  
-> 6.强大的开发团队，每周推出2-3个新应用，平台功能每日更新。  
-> 
-> 302.AI开源工具啦：https://github.com/302ai
+🚀 如果你正在寻找功能更完备、更易使用的全栈启动模板，请了解我们新推出的全栈模板的[Nexty.dev](https://nexty.dev)
 
 # [SmartExcel.cc](https://www.smartExcel.cc/)
 
