@@ -1,7 +1,11 @@
 🌍 *[English](README.md) ∙ [简体中文](README-zh.md)*
 
 
-🚀 Looking for a better full-featured SaaS Starter Template? Check out 👉 [Nexty.dev](https://nexty.dev)
+> 🚀 Looking for a better full-featured SaaS Starter Template? Check out 👉 [Nexty.dev](https://nexty.dev)
+>
+> Nexty is a complete Next.js SaaS template includes authentication, Stripe payments, AI integration, CMS, and everything you need to start earning immediately.。
+>
+> Check out 👉 [Nexty.dev](https://nexty.dev)
 
 # [SmartExcel.cc](https://www.smartExcel.cc/)
 
